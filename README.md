@@ -1,4 +1,5 @@
 # PoT-Git-Demo
+This repo is to be used for demoing Git with a mainframe applications. 
 
 ## v1
 -  Added Feature 1.1
