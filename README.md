@@ -8,7 +8,7 @@
 - Added Feature 2.1: BitBucket Pipeline
 
 ## v3
-- Planned Feature 3.1: GitHub Pipeline
+- Testing Feature 3.1: GitHub Pipeline
 
 
 ### BitCucket Edit
