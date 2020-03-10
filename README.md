@@ -1,3 +1,6 @@
 # PoT-Git-Demo
 
-## Add feature 1
+# v1
+-  Add feature 1
+-  Add Feature 2
+
