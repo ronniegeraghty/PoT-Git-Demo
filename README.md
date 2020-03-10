@@ -1,11 +1,14 @@
 # PoT-Git-Demo
 
 ## v1
--  Add Feature 1.1
--  Add Feature 1.2
+-  Added Feature 1.1
+-  Added Feature 1.2
 
 ## v2  
-- Planned Feature 2.1
+- Added Feature 2.1: BitBucket Pipeline
+
+## v3
+- Planned Feature 3.1: GitHub Pipeline
 
 
 ### BitCucket Edit
