@@ -1,5 +1,5 @@
       ******************************************************************
-      *  Chnaged by Regi - March 11, 2020
+      *  Changed by Regi - March 11, 2020
       *                    ADD Patient Details                         *
       *                                                                *
       *   To add patient's name, address and date of birth to the      *
