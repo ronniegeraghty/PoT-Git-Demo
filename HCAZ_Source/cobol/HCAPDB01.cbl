@@ -1,11 +1,22 @@
       ******************************************************************
-      *  Changed by Regi - March 11, 2020
+      *                                                                *
+      * LICENSED MATERIALS - PROPERTY OF IBM                           *
+      *                                                                *
+      * "RESTRICTED MATERIALS OF IBM"                                  *
+      *                                                                *
+      * (C) COPYRIGHT IBM CORP. 2014 ALL RIGHTS RESERVED               *
+      *                                                                *
+      * US GOVERNMENT USERS RESTRICTED RIGHTS - USE, DUPLICATION,      *
+      * OR DISCLOSURE RESTRICTED BY GSA ADP SCHEDULE                   *
+      * CONTRACT WITH IBM CORPORATION                                  *
+      *                                                                *
+      *                                                                *
       *                    ADD Patient Details                         *
       *                                                                *
       *   To add patient's name, address and date of birth to the      *
       *  DB2 patient table creating a new patient entry.               *
       *                                                                *
-      * Change by Ronnie
+      *                                                                *
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. HCAPDB01.
