@@ -16,6 +16,7 @@
       *   To add patient's name, address and date of birth to the      *
       *  DB2 patient table creating a new patient entry.               *
       *                                                                *
+      *    Change by Ronnie
       *    changed by Regi
       ******************************************************************
        IDENTIFICATION DIVISION.
