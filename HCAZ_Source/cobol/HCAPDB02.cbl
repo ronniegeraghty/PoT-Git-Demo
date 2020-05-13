@@ -15,7 +15,7 @@
       *                                                                *
       *   To add patient's user id                                     *
       *                                                                *
-      * Second Change by Ronnie                                        *
+      * Second Change by Ronnie Pulled In from Release/1               *
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. HCAPDB02.
